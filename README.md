@@ -89,4 +89,4 @@ Future Improvements:
 
 ->Enable file transfer support
 
-->Extend support beyond LAN (WAN/Internet
+->Extend support beyond LAN (WAN/Internet)
