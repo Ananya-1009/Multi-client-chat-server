@@ -90,3 +90,9 @@ Future Improvements:
 ->Enable file transfer support
 
 ->Extend support beyond LAN (WAN/Internet)
+
+Contributors:
+Ajitesh Rajput: Ajitesh0712
+Ananya Soni: Ananya-1009
+Pawni Goel: Pawni-Goel02
+Vedansh Dwivedi: Vedansh-Dwivedi
